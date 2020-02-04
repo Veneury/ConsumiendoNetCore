@@ -1,0 +1,14 @@
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\bin\Debug\netcoreapp2.1\Solvex.deps.json
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\bin\Debug\netcoreapp2.1\Solvex.runtimeconfig.json
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\bin\Debug\netcoreapp2.1\Solvex.runtimeconfig.dev.json
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\bin\Debug\netcoreapp2.1\Solvex.dll
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.csprojAssemblyReference.cache
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.csproj.CoreCompileInputs.cache
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.RazorAssemblyInfo.cache
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.RazorAssemblyInfo.cs
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.AssemblyInfoInputs.cache
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.AssemblyInfo.cs
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.RazorTargetAssemblyInfo.cache
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\bin\Debug\netcoreapp2.1\Solvex.pdb
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.dll
+C:\Users\TeamNolasco\source\repos\Solvex\Solvex\obj\Debug\netcoreapp2.1\Solvex.pdb
